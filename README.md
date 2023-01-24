@@ -11,7 +11,7 @@
 คำสั่งตามนี้
 
 ```
-git clone git@github.com:JJTChannel/freesms.git
+git clone https://github.com/JJTChannel/freesms.git
 cd freesms
 python sms.py
 ```
@@ -31,7 +31,7 @@ pkg install python
 
 รันตัวยิงเบอร์
 ```
-git clone git@github.com:JJTChannel/freesms.git
+git clone https://github.com/JJTChannel/freesms.git
 cd freesms
 python sms.py
 ```
