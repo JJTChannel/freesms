@@ -20,10 +20,17 @@ python sms.py
 
 คำสั่งตามนี้
 
+สำหรับคนใช้ Termux ใหม่
+
 ```
-apt update && pkg upgrade
-apt install python
-apt install git
+pkg update -y
+pkg upgrade -y
+pkg install git
+pkg install python
+```
+
+รันตัวยิงเบอร์
+```
 git clone git@github.com:JJTChannel/freesms.git
 cd freesms
 python sms.py
