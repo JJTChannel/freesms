@@ -23,8 +23,7 @@ python sms.py
 สำหรับคนใช้ Termux ใหม่
 
 ```
-pkg update -y
-pkg upgrade -y
+pkg update && pkg upgrade
 pkg install git
 pkg install python
 ```
